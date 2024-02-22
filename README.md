@@ -1,7 +1,5 @@
 - 👋 Hi, I’m @ctali
-- 👀 I’m interested in web development
-- 🌱 I’m currently learning Angular. I am experienced in Aurelia
-- 💞️ I’m looking to collaborate on web development
+I am a web developer plus UX designer. I am currently exploring AI. 
 - 📫 
 
 <!---
